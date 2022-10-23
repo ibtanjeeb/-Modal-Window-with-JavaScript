@@ -1,1 +1,1 @@
-# -Modal-Window-with-JavaScript
+# Modal-Window-with-JavaScript
